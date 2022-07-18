@@ -29,7 +29,7 @@ You can download the pretrained model from the following links:
 
 | Models                                                                        |  Link    | 
 |:------------------------------------------------------------------------------|:---------:|
-| **CSTR** (Scene Flow pretrained,plugging context enhanced path to sttr-light) |  [Download link](https://drive.google.com/file/d/1R0YUpFzDRTKvjRfngF8SPj2JR2M1mMTF/view?usp=sharing)    |
+| **CSTR** (Scene Flow pretrained,plugging context enhanced path to sttr-light) |  [Download link](https://drive.google.com/file/d/1sfBytVVHFPj7GjHQkSu3VwBnpruCWfiB/view?usp=sharing)    |
 - Note: the pretrained model is only trained on FlyingThings3D sub-dataset. 
 
 ## Folder Structure
@@ -46,20 +46,20 @@ Context enhanced stereo-transformer
 ## Usage
 
 
-- Download pretrained model using links in [Pre-trained Models](https://github.com/mli0603/stereo-transformer#pre-trained-models).
+- Download pretrained model using links in [Pre-trained Models](https://drive.google.com/file/d/1sfBytVVHFPj7GjHQkSu3VwBnpruCWfiB/view?usp=sharing).
 - Run pretraining by
     ```
     sh scripts/pretrain.sh
     ```
 
-- Run fine-tune on KITTI by
+- Run fine-tune on dataset by
     ```
-    sh scripts/kitti_finetune.sh
+    sh scripts/finetune.sh
     ```
   
-- Run evaluation on the provided KITTI example by
+- Run evaluation on the  middlebury  by
     ```
-    sh scripts/kitti_eval.sh
+    sh scripts/middlebury_eval.sh
     ```
     - Note: the pretrained model is assumed to be in the `stereo-transformer` folder. 
 
@@ -67,7 +67,7 @@ Context enhanced stereo-transformer
 
     
 ## License
-This project is under the Apache 2.0 license. Please see [LICENSE](LICENSE.txt) for more information.
+This project is under the Apache 2.0 license. 
  
 ## Contributing
 We try out best to make our work easy to transfer. If you see any issues, feel free to fork the repo and start a pull request. 
