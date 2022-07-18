@@ -13,7 +13,7 @@ This is the official repo for our work Context enhanced stereo transformer(CSTR)
 We recommend the following steps to set up your environment
 - Create your python virtual environment by 
     ``` sh
-    conda create --name CSTR python=3.8 # create a virtual environment called "CSTR" with python version 3.6
+    conda create --name CSTR python=3.8 # create a virtual environment called "CSTR" with python version 3.8
     ```
     
 - **Install Pytorch 1.9** and cuda 11.6: 
