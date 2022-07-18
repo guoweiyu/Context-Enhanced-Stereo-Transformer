@@ -7,4 +7,4 @@ python main.py  --epochs 800\
                 --dataset middlebury2014\
                 --dataset_directory /data/middlebury2014_full\
                 --ft\
-                --resume /home/guoweiyu/stereo-transformer/run/sceneflow/pretrain/experiment_5/epoch_17_model.pth.tar
+                --resume /yourdatapath

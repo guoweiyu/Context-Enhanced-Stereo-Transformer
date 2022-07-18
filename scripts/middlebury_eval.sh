@@ -8,4 +8,4 @@ python main.py  --batch_size 1\
                 --num_attn_layers 6\
                 --dataset middlebury2014_test\
                 --dataset_directory /data/MiddEval3/trainingQ/\
-                --resume /home/guoweiyu/stereo-transformer/run/sceneflow/pretrain/experiment_5/epoch_15_model.pth.tar
+                --resume /your/model/path

@@ -8,5 +8,5 @@ python main.py  --epochs 25\
                 --dataset sceneflow\
                 --nheads 4\
                 --num_attn_layers 6\
-                --dataset_directory /data/JHU\
+                --dataset_directory /yourdatapath\
                 
