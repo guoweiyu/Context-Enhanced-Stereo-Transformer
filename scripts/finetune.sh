@@ -7,4 +7,4 @@ python main.py  --epochs 800\
                 --dataset middlebury2014\
                 --dataset_directory /data/middlebury2014_full\
                 --ft\
-                --resume /yourdatapath
+                --resume /yourdatapath/XXX
