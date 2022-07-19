@@ -44,10 +44,9 @@ def get_args_parser():
     parser.add_argument('--checkpoint', type=str, default='dev', help='checkpoint name for current experiment')
     parser.add_argument('--pre_train', action='store_true')
     parser.add_argument('--downsample', default=3, type=int,
-                        help='This is outdated in STTR-light. Default downsampling is 4 and cannot be changed.')
+                        help='Default downsampling is 4 and cannot be changed.')
     parser.add_argument('--apex', action='store_true', help='enable mixed precision training')
 
-    # * STTR
     parser.add_argument('--channel_dim', default=128, type=int,
                         help="Size of the embeddings (dimension of the transformer)")
 
