@@ -1,8 +1,8 @@
-# Context enhanced stereo transformer(CSTR)
+# Context enhanced stereo transformer(CETR)
 
 
 
-This is the official repo for our work Context enhanced stereo transformer(CSTR)
+This is the official repo for our work Context enhanced stereo transformer(CETR)
 ![](media/netowrk.png)
 
 
