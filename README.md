@@ -13,7 +13,7 @@ This is the official repo for our work Context enhanced stereo transformer(CETR)
 We recommend the following steps to set up your environment
 - Create your python virtual environment by 
     ``` sh
-    conda create --name CSTR python=3.8 # create a virtual environment called "CSTR" with python version 3.8
+    conda create --name CETR python=3.8 # create a virtual environment called "CETR" with python version 3.8
     ```
     
 - **Install Pytorch 1.9** and cuda 11.6: 
@@ -29,7 +29,7 @@ You can download the pretrained model from the following links:
 
 | Models                                                                        |  Link    | 
 |:------------------------------------------------------------------------------|:---------:|
-| **CSTR** (Scene Flow pretrained,plugging context enhanced path to sttr-light) |  [Download link](https://drive.google.com/file/d/1sfBytVVHFPj7GjHQkSu3VwBnpruCWfiB/view?usp=sharing)    |
+| **CETR** (Scene Flow pretrained,plugging context enhanced path to sttr-light) |  [Download link](https://drive.google.com/file/d/1sfBytVVHFPj7GjHQkSu3VwBnpruCWfiB/view?usp=sharing)    |
 - Note: the pretrained model is only trained on FlyingThings3D sub-dataset. 
 
 ## Folder Structure
