@@ -46,7 +46,7 @@ Context enhanced stereo-transformer
 ## Usage
 
 
-- Download pretrained model using links in [Pre-trained Models](https://drive.google.com/file/d/1sfBytVVHFPj7GjHQkSu3VwBnpruCWfiB/view?usp=sharing).
+- Download pretrained model using links in [Pre-trained Models](https://drive.google.com/file/d/1ej-m6k8qr-o-X5E5ti6WFYMXKqIAYbf7/view?usp=share_link).
 - Run pretraining by
     ```
     sh scripts/pretrain.sh
