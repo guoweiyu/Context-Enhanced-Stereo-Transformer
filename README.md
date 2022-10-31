@@ -29,7 +29,7 @@ You can download the pretrained model from the following links:
 
 | Models                                                                        |  Link    | 
 |:------------------------------------------------------------------------------|:---------:|
-| **CEST** (Scene Flow pretrained,plugging context enhanced path to sttr-light) |  [Download link](https://drive.google.com/file/d/1sfBytVVHFPj7GjHQkSu3VwBnpruCWfiB/view?usp=sharing)    |
+| **CEST** (Scene Flow pretrained,plugging context enhanced path to sttr-light) |  [Download link](https://drive.google.com/file/d/1ej-m6k8qr-o-X5E5ti6WFYMXKqIAYbf7/view?usp=sharing)    |
 - Note: the pretrained model is only trained on FlyingThings3D sub-dataset. 
 
 ## Folder Structure
